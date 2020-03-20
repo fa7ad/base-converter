@@ -6,7 +6,7 @@
   "homepage": "https://fa7ad.github.io/base-converter/",
   "dependencies": {
     "cutestrap": "^1.3.1",
-    "react": "^16.12.0",
+    "react": "^16.13.1",
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0"
   },
